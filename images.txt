@@ -7,4 +7,4 @@ xhofe/alist:latest
 #switch联机服务器
 spacemeowx2/slp-server-rust:latest
 #switch联机服务器-玩客云
---platform=linux/armv7-unknown-linux-gnueabihf spacemeowx2/slp-server-rust:latest
+--platform=linux/armv7l spacemeowx2/slp-server-rust:latest
