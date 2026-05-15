@@ -8,3 +8,5 @@ xhofe/alist:latest
 spacemeowx2/slp-server-rust:latest
 #switch联机服务器-玩客云
 --platform=linux/armv7l spacemeowx2/slp-server-rust:latest
+#Derper服务器
+fredliang/derper:latest
