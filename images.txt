@@ -8,7 +8,7 @@ fredliang/derper:latest
 #switch联机服务器
 spacemeowx2/slp-server-rust:latest
 #switch联机服务器-玩客云
---platform=linux/armv7l sheepgreen/slp-server-rust:latest
+--platform=linux/arm/v7 sheepgreen/slp-server-rust:latest
 #Docker电视直播终极进化wjecee/tv-go
 wjecee/tv-go:latest
 wjecee/cctv-proxy:latest
