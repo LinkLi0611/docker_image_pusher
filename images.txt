@@ -10,6 +10,7 @@ spacemeowx2/slp-server-rust:latest
 --platform=linux/arm/v7 sheepgreen/slp-server-rust:latest
 #IPTV自动抓取
 hurryos/iptvs-app:latest-amd64
+hurryos/iptvs-app:5669967871a2288aa083cd2a30b1052120d3a60a-amd64
 #Docker电视直播终极进化wjecee/tv-go
 wjecee/tv-go:latest
 wjecee/cctv-proxy:latest
