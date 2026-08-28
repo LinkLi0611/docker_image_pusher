@@ -10,7 +10,5 @@ sheepgreen/slp-server-rust:latest
 hurryos/iptvs-app:latest
 #Docker电视直播终极进化wjecee/tv-go
 wjecee/tv-go:latest
-wjecee/cctv-proxy:latest
-wjecee/tv-hls-proxy:latest
 #Lucky最初是作为一个小工具
 gdy666/lucky:v2
