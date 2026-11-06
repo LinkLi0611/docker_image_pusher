@@ -12,3 +12,5 @@ hurryos/iptvs-app:latest
 wjecee/tv-go:latest
 #Lucky最初是作为一个小工具
 gdy666/lucky:v2
+#飞牛OS旁路由QWRT
+coolsnowwolf/qwrt:amd64-latest
